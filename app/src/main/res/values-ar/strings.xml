@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crime_title_hint">ادخل عنوان الجريمة</string>
+    <string name="crime_title_label">العنوان</string>
+    <string name="crime_solved_label">تم حلها</string>
+    <string name="date_picker_title">تاريخ الجريمة</string>
+    <string name="ok">تم</string>
+    <string name="new_crime">جريمة جديده</string>
+    <string name="show_subtitle">اظهار المعلومات</string>
+    <string name="hide_subtitle">اخفاء المعلومات</string>
+    <string name="subtitle_format">%1$d جرائم</string>
+    <string name="crime_suspect_text">اختار مشتبة</string>
+    <string name="crime_report_text">ارسال تقرير الجريمة</string>
+    <string name="crime_report">%1$s!
+     The crime was discovered on %2$s. %3$s, and %4$s
+    </string>
+    <string name="crime_report_solved">الحاله تم حلها</string>
+    <string name="crime_report_unsolved">الحالة لم يتم حلها</string>
+    <string name="crime_report_suspect">المشتبه %s.</string>
+    <string name="crime_report_subject">تقرير الجريمة</string>
+    <string name="send_report">ارسال تقرير الجريمة عن طريق</string>
+
+    <string name="no_crimes_add"></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">"مرحبا "</string>
+    <string name="crime_details_label">التفاصيل</string>
+    <string name="app_name">الجرائم</string>
+    <string name="crime_report_no_suspect">لا يوجد مشتبه</string>
+    <string name="time_picker_title">وقت الجريمة</string>
+</resources>
